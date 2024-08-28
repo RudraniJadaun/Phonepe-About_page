@@ -1,0 +1,11 @@
+*
+{
+  font-family: 'Nunito',sans-serif;
+}
+
+#year{
+  background-image: url(../public/phonepay/phonepay17.svg);
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
