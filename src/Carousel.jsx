@@ -23,47 +23,7 @@ const CardCarousel = () => {
       description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
       image: '../public/phonepay/phonepay32.png',
     },
-    {
-      id: 4,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 5,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 6,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 7,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 8,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 9,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 10,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    }, {
-      id: 11,
-      title: 'Best Payment Fintech',
-      description: 'Bharat Fintech Summit 2024 for excellence in the Payment space',
-      image: '../public/phonepay/phonepay32.png',
-    },
+
   ];
 
   const prevSlide = () => {
